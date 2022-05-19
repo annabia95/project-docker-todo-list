@@ -63,7 +63,7 @@ Neste projeto, desenvolvi as seguintes habilidades:
  
  ## Escopo do Projeto
  
- **Comandos docker
+ **Comandos docker**
  - Crie um container em modo interativo, sem rodá-lo, nomeando-o como 01container e utilizando a imagem alpine na versão 3.12;
  - Inicie o container 01container;
  - Liste os containers filtrando pelo nome 01container;
@@ -73,12 +73,12 @@ Neste projeto, desenvolvi as seguintes habilidades:
  - Rode um novo container com a imagem nginx com a versão 1.21.3-alpine em segundo plano nomeando-o como 02images e mapeando sua porta padrão de acesso para porta 3000 do sistema hospedeiro;
  - Pare o container 02images que está em andamento
  
- **Dockerfile
+ **Dockerfile**
   - Gere uma build a partir do Dockerfile do back-end do todo-app nomeando a imagem para todobackend;
   - Gere uma build a partir do Dockerfile do front-end do todo-app nomeando a imagem para todofrontend;
   - Gere uma build a partir do Dockerfile dos testes do todo-app nomeando a imagem para todotests;
  
- **Docker-compose
+ **Docker-compose**
   - Suba uma orquestração em segundo plano com o docker-compose de forma que backend, frontend e tests consigam se comunicar.
 
  
