@@ -1,6 +1,6 @@
 Este projeto contém os requisitos realizados por _[Anna Beatriz Garcia Trajano de Sá](www.linkedin.com/in/anna-beatriz-trajano-de-sá)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
-# Project Docker To do List
+# Project Docker Todo List
 
 Neste projeto pude fixar o conceitos e comandos relacionados aos Docker (manipulação de containers e imagens) e também foi possível entender, de 
 forma introdutória, a comunicação entre serviços, nesse caso, o front-end e back-end!
@@ -11,13 +11,20 @@ Além disso, temos uma aplicação full-stack neste repositório: um aplicativo 
 
 Veja o exemplo a seguir do layout do projeto!
 
-## Demo e Layout
+## Layout
 
-Search Page             |         
+Aplicação Todo List       
 :-------------------------:|
-![Screeshot](img/screen_1.png)  |
+![Screeshot](./img/tela.png)  |
 
+Dockerfile(front-end)           |  Dockerfile(back-end)
+:-------------------------:|:-------------------------:
+![Screeshot](./img/front.png) | ![Screenshot](./img/back.png)
  
+Dockerfile(test) |  Docker-compose
+:-------------------------:|:-------------------------:
+![Screeshot](./img/testes.png)  |  ![Screenshot](./img/compose.png)
+
 ## Instalação do projeto localmente:
  
 Após cada um dos passos, haverá um exemplo do comando a ser digitado para fazer o que está sendo pedido, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em _annagarcia@id.uff.br_ 
